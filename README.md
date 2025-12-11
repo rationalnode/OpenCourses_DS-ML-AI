@@ -1,4 +1,4 @@
-# 🆓Open Courses - Data Science, Machine Learning and AI
+# Open Courses - Data Science, Machine Learning and AI
 
 A comprehensive collection of open-access university courses and academic programs in Data Science, Machine Learning, and Artificial Intelligence. This repo brings together official courses from leading institutions such as MIT, Standford, NYU and others. It  covers ML theory, AI fundamentals, statistics, deep learning, Computer Vision, Reinforcement Learning and more.
 

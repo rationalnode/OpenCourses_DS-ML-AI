@@ -13,9 +13,7 @@ A comprehensive collection of open-access university courses and academic progra
 
 ---
 
-## Machine Learning & Deep Learning
-
-### Machine Learning
+## Machine Learning
 
 | Course Title | Institution | Term / Level | Website | Additional Links |
 | --- | --- | --- | --- | --- |
@@ -25,8 +23,9 @@ A comprehensive collection of open-access university courses and academic progra
 | Introduction to Machine Learning | MIT OpenLearningLibrary | April 2020 – Undergraduate | [Course](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/) | — |
 | Introduction to Machine Learning | Stanford Online | Spring 2025 – Undergraduate | [Course](https://ee104.stanford.edu/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK) |
 
+---
 
-### Deep Learning
+## Deep Learning
 
 | Course Title | Institution | Term / Level | Website | Additional Links |
 | ---| --- | --- | --- | --- |
@@ -58,13 +57,12 @@ A comprehensive collection of open-access university courses and academic progra
 
 ---
 
-### Reinforcement Learning
+## Reinforcement Learning
 
 | Course Title | Institution | Term / Level | Website | Additional Links |
 | --- | --- | --- | --- | --- |
 | Foundations of Reinforcement Learning | Princeton University | Spring 2024 – Undergraduate | [Course](https://sites.google.com/view/cjin/teaching/ece524-2024-ver) | [Lectures Playlist](https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl) |
 | Reinforcement Learning | Paderborn University | Summer 2023 – Undergraduate | [Course](https://github.com/upb-lea/reinforcement_learning_course_materials) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL4GzQQuIDBGv-IFxRSgydCR7OrOM_xKqN) |
-
 
 ---
 

@@ -34,6 +34,7 @@ A comprehensive collection of open-access university courses and academic progra
 | Introduction to Deep Learning | Technical University of Munich | July 2023 – Undergraduate | [Course](https://niessner.github.io/I2DL/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU) |
 | Deep Learning | University of Tübingen | April 2023 – Undergraduate | [Course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) |
 | Deep Learning | NYU | Spring 2020 – Undergraduate | [Course](https://atcold.github.io/NYU-DLSP20/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v) |
+| Deep Learning | MIT | Fall 2025 – Undergraduate | [Course](https://deeplearning6-7960.github.io/) | — |
 | Deep Generative Models | Stanford Online | Fall 2023 – Undergraduate | [Course](https://deepgenerativemodels.github.io/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) |
 | Diffusion Models and Their Applications | KAIST | Fall 2024 – Graduate | [Course](https://mhsung.github.io/kaist-cs492d-fall-2024/) | — |
 | Deep Learning II | University of Amsterdam | Nov 2022 – Graduate | [Course](https://uvadl2c.github.io/lectures-2022.html#) | — |

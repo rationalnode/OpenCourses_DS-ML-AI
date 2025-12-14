@@ -45,7 +45,7 @@ A comprehensive collection of open-access university courses and academic progra
 | Deep Learning for Computer Vision | Michigan Online | August 2020 – Undergraduate | [Course](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) |
 | Computer Vision | University of Tübingen | April 2023 – Undergraduate | [Course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) |
 | Learning for 3D Vision | Carnegie Mellon University | Fall 2025 – Graduate | [Course](https://learning3d.github.io/) | — |
-| Machine Learning for Inverse Graphics | MIT Scene Representation Group | Fall 2023 – Graduate | [Course](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/) | — |
+| Machine Learning for Inverse Graphics | MIT Scene Representation Group | Fall 2023 – Undergraduate | [Course](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/) | — |
 | Advances in Computer Vision | MIT Scene Representation Group | Spring 2025 – Graduate | [Course](https://scenerepresentations.org/courses/2025/spring/advances-in-cv/) | — |
 
 ### Natural Language Processing

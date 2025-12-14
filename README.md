@@ -43,6 +43,7 @@ A comprehensive collection of open-access university courses and academic progra
 
 | Course Title | Institution | Term / Level | Website | Additional Links |
 | --- | --- | --- | --- | --- |
+| Introduction to Computer Vision | MIT | Spring 2025 – Undergraduate | [Course](https://introtocv.github.io/) | — |
 | Deep Learning for Computer Vision | Michigan Online | August 2020 – Undergraduate | [Course](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) |
 | Computer Vision | University of Tübingen | April 2023 – Undergraduate | [Course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [Lectures Playlist](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) |
 | Learning for 3D Vision | Carnegie Mellon University | Fall 2025 – Graduate | [Course](https://learning3d.github.io/) | — |
